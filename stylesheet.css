@@ -1,4 +1,4 @@
-body {
+.div1{
     background-image: url('Images/SkylineOne.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,4 +12,11 @@ h1{
 p1{
     font-size:20px;
     font-family: 'Montserrat', sans-serif;
+}
+p2{
+    position: absolute;
+    top: 90px;
+    left: 01;
+    width: 200px;
+    height: 20px;
 }
